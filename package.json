@@ -1,0 +1,25 @@
+{
+  "name": "javascript-string-utils",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mmontsheng/JavaScript-String-Utils.git"
+  },
+  "author": {
+    "name": "Mmontsheng Maoto",
+    "email": "mmontshengmaoto@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mmontsheng/JavaScript-String-Utils/issues"
+  },
+  "homepage": "https://github.com/Mmontsheng/JavaScript-String-Utils#readme",
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
+}
