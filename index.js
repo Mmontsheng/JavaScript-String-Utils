@@ -1,5 +1,4 @@
-const isEmpty=  (str) => { 
-  return str == null || str.length === 0;
-}
-
-module.exports.isEmpty = isEmpty;
+const trim = require('./trim');
+const str = '    hg';
+console.log(str);
+console.log(trim(str))
