@@ -6,6 +6,9 @@ module.exports = str => {
   if(str == null || str.length === 0 ) {
     return true;
   }
+  if(str.length > 0) {
+    return false;
+  }
   for(let i = 0; i < str.length; i += 1 ) {
     // if white space at this character
     if(/\s/.test(str.charAt(i))) {
